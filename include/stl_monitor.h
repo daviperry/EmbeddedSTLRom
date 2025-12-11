@@ -7,7 +7,7 @@
 #include <deque>
 #include "transducer.h"
 #include "tools.h"
-#include "signal.h"
+#include "stl_signal.h"
 
 namespace STLRom
 {

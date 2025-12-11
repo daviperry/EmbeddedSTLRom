@@ -1,5 +1,5 @@
 #include <cmath>
-#include "signal.h"
+#include "stl_signal.h"
 
 namespace STLRom {
 

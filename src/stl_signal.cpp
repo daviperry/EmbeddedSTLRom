@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "signal.h"
+#include "stl_signal.h"
 #include "iomanip"
 
 namespace STLRom {
